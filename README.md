@@ -1,2 +1,2 @@
-# lexical-editor-1
+# lexical-rich-text-example
 Created with CodeSandbox
